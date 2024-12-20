@@ -1,0 +1,15 @@
+C:\Users\jussi\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\Snake\snake\bin\Debug\net6.0\snake.exe
+C:\Users\jussi\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\Snake\snake\bin\Debug\net6.0\snake.deps.json
+C:\Users\jussi\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\Snake\snake\bin\Debug\net6.0\snake.runtimeconfig.json
+C:\Users\jussi\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\Snake\snake\bin\Debug\net6.0\snake.dll
+C:\Users\jussi\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\Snake\snake\bin\Debug\net6.0\snake.pdb
+C:\Users\jussi\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\Snake\snake\obj\Debug\net6.0\snake.csproj.AssemblyReference.cache
+C:\Users\jussi\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\Snake\snake\obj\Debug\net6.0\snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jussi\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\Snake\snake\obj\Debug\net6.0\snake.AssemblyInfoInputs.cache
+C:\Users\jussi\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\Snake\snake\obj\Debug\net6.0\snake.AssemblyInfo.cs
+C:\Users\jussi\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\Snake\snake\obj\Debug\net6.0\snake.csproj.CoreCompileInputs.cache
+C:\Users\jussi\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\Snake\snake\obj\Debug\net6.0\snake.dll
+C:\Users\jussi\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\Snake\snake\obj\Debug\net6.0\refint\snake.dll
+C:\Users\jussi\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\Snake\snake\obj\Debug\net6.0\snake.pdb
+C:\Users\jussi\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\Snake\snake\obj\Debug\net6.0\snake.genruntimeconfig.cache
+C:\Users\jussi\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\Snake\snake\obj\Debug\net6.0\ref\snake.dll

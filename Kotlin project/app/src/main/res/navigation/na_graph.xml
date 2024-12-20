@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/na_graph"
+    app:startDestination="@id/fragFirst">
+
+    <fragment
+        android:id="@+id/fragFirst"
+        android:name="jussi.pekka.ohjelmistoprojekti.FragFirst"
+        android:label="fragment_frag_first"
+        tools:layout="@layout/fragment_frag_first" >
+        <action
+            android:id="@+id/action_fragFirst_to_fragSecond"
+            app:destination="@id/fragSecond" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragSecond"
+        android:name="jussi.pekka.ohjelmistoprojekti.FragSecond"
+        android:label="fragment_frag_second"
+        tools:layout="@layout/fragment_frag_second" >
+        <action
+            android:id="@+id/action_fragSecond_to_fragAnimals"
+            app:destination="@id/fragAnimals" />
+        <argument
+            android:name="username"
+            app:argType="string"
+            android:defaultValue="nameless" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragAnimals"
+        android:name="jussi.pekka.ohjelmistoprojekti.FragAnimals"
+        android:label="fragment_frag_animals"
+        tools:layout="@layout/fragment_frag_animals" >
+        <argument
+            android:name="howManyFacts"
+            app:argType="integer"
+            android:defaultValue="1" />
+    </fragment>
+</navigation>
